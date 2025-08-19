@@ -46,10 +46,11 @@ The app allows you to convert values between different units of **Weight, Length
 
 ## 📌 Dependencies
 
-- Python 3.x
+- Python 3.13.1
 - Tkinter (comes pre-installed with Python)
-- unit-convert
-
+- re (comes pre-installed with Python)
+- unit-convert 
+  
 ## 📂 File Structure
 ```
 unit-converter/
