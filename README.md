@@ -21,8 +21,8 @@ The app allows you to convert values between different units of **Weight, Length
 ---
 
 ## 🖼️ Preview
-<img width="502" height="482" alt="image" src="https://github.com/user-attachments/assets/c7f356b8-53dc-44f4-a3d9-53b9abd9104f" />
-
+<img width="502" height="482" alt="image" src="https://github.com/user-attachments/assets/6e3dbbc7-b168-4b98-98cf-64d867d00eb7" />
+<img width="502" height="482" alt="image" src="https://github.com/user-attachments/assets/78da68fd-6bf3-47bb-90fd-dd9a2a7554d0" />
 
 ---
 
