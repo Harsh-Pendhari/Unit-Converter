@@ -8,6 +8,7 @@ root.geometry("500x450")
 root.title("Unit Converter")
 root.iconbitmap(r'icon.ico')
 root.configure(bg="#222E36")
+root.resizable(False, False)
 
 
 radio_var = tk.StringVar(value="Weight")
@@ -137,3 +138,4 @@ convert_btn.pack(pady=20, padx=10)
 update_units()
 
 root.mainloop()
+
