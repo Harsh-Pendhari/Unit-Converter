@@ -41,7 +41,7 @@ The app allows you to convert values between different units of **Weight, Length
   ```
 4. Run the script:
   ```bash
-  python unit_converter.py
+  python Unit_Converter.py
   ```
 
 ## 📌 Dependencies
@@ -54,7 +54,7 @@ The app allows you to convert values between different units of **Weight, Length
 ## 📂 File Structure
 ```
 unit-converter/
-│── unit_converter.py   # Main program file
+│── Unit_Converter.py   # Main program file
 │── README.md           # Project documentation
 ```
 
